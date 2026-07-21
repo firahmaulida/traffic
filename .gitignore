@@ -1,0 +1,5 @@
+# Abaikan video hasil deteksi (Ini yang kamu mau)
+vehicle_counting_result.mp4
+*.mp4
+.venv/
+

@@ -1,0 +1,15 @@
+names:
+- bus
+- car
+- motorbike
+- truck
+nc: 4
+roboflow:
+  license: Public Domain
+  project: traffic-surveillance-system-wviaw
+  url: https://universe.roboflow.com/firah-maulida/traffic-surveillance-system-wviaw/dataset/dataset
+  version: dataset
+  workspace: firah-maulida
+test: /kaggle/working/dataset_curl/test/images
+train: /kaggle/working/dataset_curl/train/images
+val: /kaggle/working/dataset_curl/valid/images
