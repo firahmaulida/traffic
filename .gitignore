@@ -1,5 +1,4 @@
-# Abaikan video hasil deteksi (Ini yang kamu mau)
-vehicle_counting_result.mp4
-*.mp4
 .venv/
+Traffic-surveillance-system-1/
+*.mp4
 

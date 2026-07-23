@@ -88,6 +88,9 @@ pose: 12.0
 kobj: 1.0
 rle: 1.0
 angle: 1.0
+dlog: 1.0
+dgrad: 0.5
+dlam: 1.0
 nbs: 64
 hsv_h: 0.015
 hsv_s: 0.7
